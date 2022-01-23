@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MYSQL-%234ea94b.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MYSQL-%234ea94b.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/flask-092E20?style=flat-square&logo=flask&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=fflat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
