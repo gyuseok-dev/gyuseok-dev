@@ -12,7 +12,6 @@
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 </p>
 
 ### Cloud & DevOps
