@@ -34,7 +34,10 @@ Experienced in designing and implementing robust applications using modern tech 
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 </td>
