@@ -1,29 +1,80 @@
-<!--
-**gyuseok-dev/gyuseok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Welcome to Gyuseok's GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/gyuseok-dev?style=social"> -->
-<h3 align="center">✨ Tech Stack ✨ </h3>
+### Backend Developer | Cloud Enthusiast | Open Source Contributor
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyuseok-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/gyuseok-dev)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Backend developer passionate about building scalable systems and cloud infrastructure.
+Experienced in designing and implementing robust applications using modern tech stacks.
+
+- 🔭 Currently working on cloud-native applications and microservices architecture
+- 🌱 Learning advanced AWS services and DevOps practices
+- 💡 Interested in distributed systems, database optimization, and system design
+- 📫 Reach me: [GitHub](https://github.com/gyuseok-dev)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 </p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyuseok-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuseok-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyuseok-dev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=gyuseok-dev&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-gyuseok--dev-181717?style=for-the-badge&logo=github)](https://github.com/gyuseok-dev)
+
+*Thanks for visiting! Have a great day!* 😊
+
+</div>
