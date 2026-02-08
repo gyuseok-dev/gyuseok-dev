@@ -69,6 +69,12 @@ Experienced in designing and implementing robust applications using modern tech 
 
 ---
 
+## ✨ Recent Writing
+
+- [26년 01월 회고](https://www.gyuseok.dev/blog/2026%EB%85%84_1%EC%9B%94_%ED%9A%8C%EA%B3%A0)
+
+---
+
 <div align="center">
 
 ### 💬 Let's Connect!
